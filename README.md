@@ -52,7 +52,7 @@ sms\_spam\_classifier/
 ├── data/  
 │ └── spam.csv  
 ├── notebooks/  
-│ └── eda.ipynb  
+│ └── spam_detector.ipynb  
 ├── README.md  
 ├── requirements.txt
 
