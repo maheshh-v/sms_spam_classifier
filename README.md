@@ -44,25 +44,24 @@ SMS spam is a common issue in communication. The goal is to build a model that c
 
 ## 📁 Folder Structure
 
-sms_spam_classifier/
-├── app.py
-├── models/
-│ ├── spam_model.pkl
-│ └── vectorizer.pkl
-├── data/
-│ └── spam.csv
-├── notebooks/
-│ └── eda.ipynb
-├── README.md
+sms\_spam\_classifier/  
+├── app.py  
+├── models/  
+│ ├── spam\_model.pkl  
+│ └── vectorizer.pkl  
+├── data/  
+│ └── spam.csv  
+├── notebooks/  
+│ └── eda.ipynb  
+├── README.md  
 ├── requirements.txt
-
 
 
 ---
 
 ## 📷 Screenshot
 
-![App Screenshot](Screenshot 2025-06-12 155817.png) 
+![App Screenshot](https://github.com/maheshh-v/sms_spam_classifier/blob/2f1c6d0c92fba336a967dfa7d410c09c8bfbaccf/Screenshot%202025-06-12%20155817.png) 
 
 ---
 
